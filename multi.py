@@ -9,7 +9,6 @@ dataset = pd.read_csv('wine.csv')
 #this function will provide the descriptive statistics of the dataset.(only int value)
 dataset.describe()
 
-#There are 4 independent variables and 1 dependent variable. So we need to see what is needed most importantly using the Correlation Matrix.
 import seaborn as sns
 #Other methods like Back Propagation/ Forward Propagation can be used. But Correlation Matrix is best for most speedy analysis.
 correlation_matrix = dataset.corr().round(2)
