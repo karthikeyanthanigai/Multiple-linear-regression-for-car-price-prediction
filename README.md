@@ -1,6 +1,6 @@
 # Multiple linear regression
 In this repository we will see what is this car price prediction problem parameters/variable values and try to fit this values in a multiple linear regression ..In this we will see both ols ***(Ordinary least squares)*** method and sgd
-***(Stochastic Gradient Descent)*** method for insurance dataset.
+***(Stochastic Gradient Descent)*** method.
 To run the code follow the below steps:
 
 1.Install python(3.6+) and need packages.
